@@ -1,4 +1,4 @@
-# Copilot Agent Governance Template
+# Copilot Agent governance template
 
 This repository contains a practical governance template for Copilot Agents in Power Platform and Microsoft 365.
 
